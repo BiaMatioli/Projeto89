@@ -1,0 +1,19 @@
+body {
+    background-color: lavenderblush;
+}
+
+h1 {
+    color: lightslategray;
+}
+
+.login_div1, .login_div2 {
+    float: none;
+}
+
+h3 {
+    color: lightslategray;
+}
+
+label {
+    color: lightsteelblue;
+}
